@@ -8,6 +8,6 @@ EvilCat installer va simplement etre utile pour l'installation des outils néces
 
 ### Utilisation ###
 
-chmod +x ECI.sh
+chmod +x ECI_1.0b.sh
 
-./ECI.sh
+./ECI_1.0b.sh
