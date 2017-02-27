@@ -12,4 +12,8 @@ sudo chmod +x ECI_1.0b.sh
 
 ./ECI_1.0b.sh
 
+### Thanks ###
+
+Z0MB13.D0LL
+
 
